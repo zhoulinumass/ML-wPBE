@@ -3,7 +3,7 @@
 Stacked Ensemble Machine Learning for Range-Separation Parameters
 
 Source codes and original dataset for the stacked ensemble machine learning (SEML) model in the construction of ML-wPBE functional developed in the Lin group. The illustration of the framework is shown as following:
-![](illustration/SEML-wPBE.pdf)
+![](illustration/Figure_1.png)
 Authors: Cheng-Wei Ju (The University of Chicago)  Ethan French (University of Massachusetts Amherst) Alexander Kohn (Blizzard) Nedav Geva (AMD) Zhou Lin (University of Massachusetts Amherst)
 
 Reference to the pulication: https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c02506
